@@ -259,7 +259,14 @@ hr{
 .footerLegales img{
     width: 50px;
 }
-
+.conteiner-whatsapp{
+    position: fixed;
+    top: 85%;
+    right: 5%;
+}
+.conteiner-whatsapp svg{
+   width: 60px; 
+}
 
 @media (max-width: 850px) {
     .conteiner{
