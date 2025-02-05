@@ -243,6 +243,21 @@ hr{
 .conteiner-links a:hover{
     background-color: #FFFFFF;
 }
+.footerLegales{
+    background-color: #1F262F;
+    /* width: 100%; */
+    height: 100px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: #FFFFFF;
+    font-family: var(--font-bold);
+    text-align: center;
+}
+.footerLegales img{
+    width: 50px;
+}
+
 
 @media (max-width: 850px) {
     .conteiner{
