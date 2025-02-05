@@ -25,7 +25,7 @@ body{
     /* font-family: var(--font-source); */
 }
 .conteiner {
-    width: 100vw;
+    max-width: 100vw;
     min-height: auto;
     display: flex;
 }
@@ -245,7 +245,7 @@ hr{
 }
 .footerLegales{
     background-color: #1F262F;
-    /* width: 100%; */
+    max-width: 100%;
     height: 100px;
     display: flex;
     justify-content:center;
@@ -253,6 +253,8 @@ hr{
     color: #FFFFFF;
     font-family: var(--font-bold);
     text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .footerLegales img{
     width: 50px;
