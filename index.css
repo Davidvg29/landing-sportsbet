@@ -265,15 +265,15 @@ hr{
     top: 85%;
     right: 5%;
     background-color: #0CD664;
-    width: 75px;
-    height: 75px;
+    width: 55px;
+    height: 55px;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
 }
 .conteiner-whatsapp svg{
-   width: 40px
+   width: 30px
 }
 
 @media (max-width: 850px) {
