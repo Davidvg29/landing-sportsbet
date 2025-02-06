@@ -246,7 +246,7 @@ hr{
 .footerLegales{
     background-color: #1F262F;
     max-width: 100%;
-    height: 100px;
+    height: 60px;
     display: flex;
     justify-content:center;
     align-items: center;
@@ -258,15 +258,18 @@ hr{
     margin-top: 50px;
 }
 .footerLegales img{
-    width: 50px;
+    width: 35px;
+}
+.footerLegales p{
+    font-size: 12px;
 }
 .conteiner-whatsapp{
+    width: 55px;
+    height: 55px;
     position: fixed;
     top: 85%;
     right: 5%;
     background-color: #0CD664;
-    width: 40px;
-    height: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
