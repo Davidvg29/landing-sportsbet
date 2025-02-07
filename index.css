@@ -1,12 +1,3 @@
-/* @import url(/assets/fonts/AvertaStd-Bold.otf); */
-@font-face {
-    font-family: 'AvertaStd-Bold';
-    src: url('/assets/fonts/AvertaStd-Bold.otf') format('opentype');
-}
-@font-face {
-    font-family: 'AvertaStd-Light';
-    src: url('/assets/fonts/AvertaStd-Light.otf') format('opentype');
-}
 :root {
     --font-bold: 'AvertaStd-Bold', sans-serif;
     --font-light: 'AvertaStd-Light', sans-serif;
